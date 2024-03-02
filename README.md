@@ -9,5 +9,7 @@ Comenting from VS Code..
 adding a new comment.
 
 add - add file to the git staged area.
+<br>
 commit - save the changes
+<br>
 push  git push origin main/master
